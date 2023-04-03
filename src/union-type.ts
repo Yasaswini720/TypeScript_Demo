@@ -12,3 +12,4 @@ function formatCommandLine(input: string | string[]) {
 console.log(formatCommandLine('hello '))
 console.log(formatCommandLine(['hello', 'yasaswini']))
 // error    console.log(formatCommandLine(1234))
+//
